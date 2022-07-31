@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @travisgazelle
 - 👀 I’m interested in Computer Science and Animation
-- 🌱 I’m currently a senior at CSU East Bay and will graduate with a B.S. in Computer Science Fall 22'
+- 🌱 I’m currently a senior at CSU East Bay and will graduate with a B.S. in Computer Science Spring 23'
 - 💞️ I’m looking to collaborate on anything that will help me grow as a programmer!
 - 📫 How to reach me [LinkedIn](https://linkedin.com/in/tcassell) 
 
